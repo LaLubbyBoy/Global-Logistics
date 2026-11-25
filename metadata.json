@@ -1,0 +1,8 @@
+{
+  "name": "Global Express Tracking & Logistics Portal",
+  "description": "Professional package tracking website and admin portal for global logistics and courier management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
